@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 dist/
 node_modules/
-=======
 # Logs
 logs
 *.log
@@ -63,4 +61,3 @@ typings/
 
 # next.js build output
 .next
->>>>>>> 5e1eb690fbbec892729fbd2cfced311adb3e51d6
