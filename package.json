@@ -1,0 +1,20 @@
+{
+  "name": "mock-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/mock-request.common.js",
+  "scripts": {
+    "test": "jest",
+    "start": "rollup -c && node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mockjs": "^1.0.1-beta3",
+    "path-to-regexp": "^3.1.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
